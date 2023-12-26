@@ -14,7 +14,7 @@
     "deploy": "ssh hush 'cd ~/projects/m4tt72-bot; git pull; docker-compose up --build -d'"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "date-fns": "^2.22.1",
     "dotenv": "^10.0.0",
     "instagram-private-api": "^1.45.1",
